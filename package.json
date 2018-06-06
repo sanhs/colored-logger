@@ -1,0 +1,21 @@
+{
+  "name": "colored-logger",
+  "version": "0.1.0",
+  "description": "colored-logger with timestamp, file, method name and ...",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "colored",
+    "logger",
+    "javascript",
+    "logger"
+  ],
+  "author": "sanhs",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
